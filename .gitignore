@@ -1,0 +1,26 @@
+# ---- Keil MDK 编译产物（不要提交）----
+Objects/
+Listings/
+*.o
+*.crf
+*.d
+*.dep
+*.axf
+*.lnp
+*.htm
+*.build_log.htm
+*.map
+*.lst
+*.bak
+*.iex
+
+# ---- Keil 本机用户配置（含电脑用户名、窗口布局）----
+*.uvguix.*
+*.uvopt.bak
+
+# ---- 系统 / 编辑器 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
